@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features, Find me on Discord here https://discord.gg/58t3Yg3Uga for any questions
 
 - **🔒 100% Local** — No API keys, no cloud. All processing runs on your hardware.
 - **🎙️ Voice Agent** — Native Speech-to-Text dictation via OS microphone + autonomous Text-to-Speech responses.
