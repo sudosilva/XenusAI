@@ -2,7 +2,7 @@
   <h1 align="center">🧠 XenusAI</h1>
   <p align="center"><b>Private Local Knowledge Agent with Voice Interaction</b></p>
   <p align="center">
-    A fully local, unrestricted AI agent that absorbs knowledge from any source and answers questions using retrieval-augmented generation (RAG) — with native Speech-to-Text and Text-to-Speech voice capabilities.
+    A fully local, unrestricted AI agent that absorbs knowledge from any source and answers questions. This is made by Purley AI and is apart of a series check it out https://youtu.be/xZvzDQgbLbs
   </p>
 </p>
 
