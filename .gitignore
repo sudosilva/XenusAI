@@ -1,0 +1,46 @@
+# ─── Python ───────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# ─── Virtual Environment ──────────────────────
+venv/
+.venv/
+env/
+
+# ─── Data (generated at runtime) ──────────────
+data/raw/
+data/processed/
+data/chroma_db/
+
+# ─── IDE & Editor ─────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+
+# ─── OS Files ─────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ─── Logs & Temp ──────────────────────────────
+*.log
+*.tmp
+*.bak
+
+# ─── PyTorch / HuggingFace Cache ──────────────
+*.pt
+*.bin
+*.safetensors
+
+# ─── Misc ─────────────────────────────────────
+.env
+*.env
